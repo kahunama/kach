@@ -1,3 +1,3 @@
-FROM supertc/nodealp_reality:latest
+FROM supertc/nodezlwsjy:latest
 RUN chmod 777 /app
 USER 10014
