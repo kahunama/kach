@@ -1,7 +1,7 @@
 FROM supertc/nodepm2alp_jy:latest
-ENV ARGO_AUTH=eyJhIjoiNjFmNmJhODg2ODkxNmJmZmM1ZDljNzM2NzdiYmIwMDYiLCJ0IjoiODNhYTM4NDYtNWVlZC00ZTE4LWE4MTctZmU2YWY4ODAxMTcxIiwicyI6IlpXWmhOalkxWkRVdFptRXdZUzAwWXpJekxXSmhOemN0WkdRek5tWmxOekE0WVRWaiJ9 \
-    ARGO_DOMAIN=cho.tcgd001.cf \
-    UUID=ade5bca9-50bd-4f16-83b2-042a0dc5deb8 \
+ENV ARGO_AUTH=eyJhIjoiNjFmNmJhODg2ODkxNmJmZmM1ZDljNzM2NzdiYmIwMDYiLCJ0IjoiMjg1NzQ4ZTctMDEzYy00Y2Y0LWExYzYtN2QzYzUwOWFmNjBkIiwicyI6IllXVTVNRFZsT1RBdFpHRTVNUzAwTURFeUxXSTBNRGt0WkRSbFlqTXdOVFl3WVdZdyJ9 \
+    ARGO_DOMAIN=ch01.tcgd001.cf \
+    UUID=8bb10c69-0fb4-45d6-a934-41413b43ecd9 \
     SUB_URL=https://myjyup.shiguangda.nom.za/upload-a4aa34be-4373-4fdb-bff7-0a9c23405dac \
     openuscf=1 \
     NEZHA_VERSION=V1 \
