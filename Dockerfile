@@ -1,3 +1,3 @@
-FROM supertc/nodexhp:latest
+FROM supertc/nodews:latest
 RUN chmod 777 /app
 USER 10014
