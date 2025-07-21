@@ -1,2 +1,2 @@
-FROM eooce/webssh:latest
+FROM kahunama/webssh:latest
 USER 10014
